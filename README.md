@@ -6,13 +6,12 @@ WizNote is a typora theme, which is a varient of Github theme with better fonts 
 
 <details>
 <summary>WizNote</summary>
+
 ![wiznote_demo_1](assets/demo_1.png)
 ![wiznote_demo_2](assets/demo_2.png)
 ![wiznote_demo_3](assets/demo_3.png)
 
 </details>
-
-
 
 ## Usage
 
