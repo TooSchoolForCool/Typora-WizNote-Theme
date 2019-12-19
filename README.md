@@ -1,5 +1,7 @@
 # Typora-WizNote-Theme
 
+[![release-ver](https://img.shields.io/badge/Release-1.0-blue)](https://github.com/TooSchoolForCool/Typora-WizNote-Theme/releases)
+
 WizNote is a typora theme, which is a varient of Github theme with better fonts and nicer margin.
 
 ## Preview
@@ -15,4 +17,4 @@ WizNote is a typora theme, which is a varient of Github theme with better fonts 
 
 ## Usage
 
-Copy the folder `wiznote` and the file `wiznote.css` to your typora theme folder, then restart the app.
+Your can download it [here](https://github.com/TooSchoolForCool/Typora-WizNote-Theme/releases). Uncompress, then copy the folder `wiznote` and the file `wiznote.css` to your typora theme folder, then restart the app. 
